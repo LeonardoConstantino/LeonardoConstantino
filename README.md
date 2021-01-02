@@ -1,5 +1,4 @@
- Opa! 👋
-===
+ # Opa! 👋
 
     Sou novo aqui, e quero deixar um breve relato sobre mim enquanto estou aprendendo desenvolvimento web
 
@@ -11,7 +10,7 @@ Sempre fui apaixonado por tecnologia, e acredito que foi isso que me inspirou a 
 
 ## Roteiro do que pretendo aprender
 
-### **Básico** (em andamento)
+ ## **Básico** (em andamento)
 
 - ### HTML
   - HTML
@@ -25,7 +24,7 @@ Sempre fui apaixonado por tecnologia, e acredito que foi isso que me inspirou a 
   - JavaScript
   - ECMAScript 5
 
-### **Me aprofundar**
+ ## **Me aprofundar**
 
 - ### HTML
   - HTML DOM
@@ -41,7 +40,7 @@ Sempre fui apaixonado por tecnologia, e acredito que foi isso que me inspirou a 
   - JSON
   - AJAX
 
-### **Frameworkes**
+ ## **Frameworkes**
 
 - ### CSS
   - Bootstrap
