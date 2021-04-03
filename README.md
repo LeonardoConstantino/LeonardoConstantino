@@ -40,7 +40,7 @@ Sempre fui apaixonado por tecnologia, e acredito que foi isso que me inspirou a 
   - JSON
   - AJAX
 
- ## **Frameworkes**
+ ## **Frameworks**
 
 - ### CSS
   - Bootstrap
