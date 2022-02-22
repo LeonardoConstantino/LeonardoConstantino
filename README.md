@@ -10,7 +10,7 @@ Sempre fui apaixonado por tecnologia, e acredito que foi isso que me inspirou a 
 
 ## Roteiro do que pretendo aprender
 
- ## **Básico** (em andamento)
+ ## **Básico** (concluido)
 
 - ### HTML
   - HTML
@@ -24,7 +24,7 @@ Sempre fui apaixonado por tecnologia, e acredito que foi isso que me inspirou a 
   - JavaScript
   - ECMAScript 5
 
- ## **Me aprofundar**
+ ## **Me aprofundar** (em andamento)
 
 - ### HTML
   - HTML DOM
