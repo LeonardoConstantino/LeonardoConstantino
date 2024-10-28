@@ -1,114 +1,95 @@
- # Olá! Eu sou Leonardo 👋
+# Leonardo Constantino 👨‍💻
 
-## Um pouco sobre mim
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/leoconsatntino)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leohconstantino@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/LeonardoConstantino?tab=repositories)
+![Visualizações](https://komarev.com/ghpvc/?username=LeonardoConstantino)
 
-Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de aprender novas habilidades e aprimorar meus conhecimentos. Atualmente, estou focado em desenvolvimento frontend. Adoro resolver problemas complexos e criar soluções eficientes. Quando não estou codando, gosto de ler sobre novas tecnologias e tendências no mundo do desenvolvimento.
+## 🚀 Sobre mim
 
-## 📫 Como me encontrar:
+Desenvolvedor Frontend apaixonado por criar experiências web excepcionais. Tenho um forte compromisso com código limpo e boas práticas de desenvolvimento. Atualmente, estou focado em aprofundar meus conhecimentos em React e suas tecnologias relacionadas, sempre buscando aprender e evoluir na área de desenvolvimento web.
 
-- [Portfólio](https://github.com/LeonardoConstantino?tab=repositories)
-- [Twitter](https://x.com/leoconsatntino)
-- [Email](https://leohconstantino@hotmail.com)
+## 💼 Habilidades Técnicas
 
-## 🚀 Minhas Habilidades
+### 🎯 Domínio Sólido
+```mermaid
+mindmap
+  root((Skills))
+    HTML
+      Semântica
+      DOM
+      APIs Google
+    CSS
+      Responsivo
+      BEM
+      Animações
+    JavaScript
+      ES6+
+      JSON
+      Fetch API
+    Controle de Versão
+      Git
+      GitHub
+```
 
- ### **Básico** (concluido)
-
-- #### HTML
-  - HTML
-  - HTTP/XHR
-
-- #### CSS
-  - CSS
-  - CSS responsivo
-
-- #### JavaScript
-  - JavaScript
-  - ECMAScript 5
-
- ### **Me aprofundar** (concluido)
-
-- #### HTML
-  - HTML DOM
-  - Google maps
-  - fontes do Google
-  - Google Charts
-
-- #### CSS
-  - Ícones CSS
-  - BEM CSS
-
-- #### JavaScript
-  - JSON
-  - Fetch API
- 
-- #### controle de versionamento
-  - Git
-  - GitHub
- 
-- #### Package Managers
-  - npm
-
-- #### Web Security Knowledge
-  - CORS
-  - HTTPS
- 
- ### **Frameworks** (em andamento)
-
-- #### HTML Web Components
-  - HTML Templates
+### 🌱 Em Desenvolvimento
+- **Web Components**
   - Custom Elements
   - Shadow DOM
-
-- #### CSS
+  - HTML Templates
+- **Frameworks CSS**
   - Bootstrap
   - Tailwind CSS
   - Sass
-
-- #### JavaScript
+- **Frameworks JS**
   - React
   - Next.js
   - Remix
-  - TypeScript
-
-- #### Build Tools end Testing
+- **Ferramentas de Build**
   - Webpack
   - Vite
   - Vitest
+- **TypeScript**
 
-## 🌟 Projetos em Destaque
+## 🎨 Projetos em Destaque
 
-- #### Projeto 1: [Minigame de Sequência de Teclas](https://github.com/LeonardoConstantino/Desafio-Front-End)
-  Minigame feito em react seguindo os critérios de um desafio
+### [🎮 Minigame de Sequência de Teclas](https://github.com/LeonardoConstantino/Desafio-Front-End)
+Um desafiador minigame desenvolvido em React que testa suas habilidades de memória e reflexos.
 
-- #### Projeto 2: [Calculadora de Preço do Papel Higiênico](https://github.com/LeonardoConstantino/preco-papel)
-  A “Calculadora de Preço do Papel Higiênico” é uma ferramenta online intuitiva que promete acabar com a indecisão na hora de escolher o papel higiênico com o melhor custo-benefício.
+**Tecnologias**: `React` `JavaScript` `CSS Modules`
 
-- #### Projeto 3: [formulario](https://github.com/LeonardoConstantino/formulario_com_validacao)
-  Um formulário simples feito apenas com HTML e CSS.
+### [🧮 Calculadora de Preço do Papel Higiênico](https://github.com/LeonardoConstantino/preco-papel)
+Ferramenta prática que ajuda consumidores a encontrar a melhor relação custo-benefício em papel higiênico.
 
-## 🛠️ Ferramentas e Tecnologias
+**Tecnologias**: `HTML` `CSS` `JavaScript`
 
-- ### Frontend Development
-  <div>
-    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" width='61' title='HTML5' />
-    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width='60' title='CSS3'  />
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" width='60' title='JavaScript'/>
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="60" title="ReactJS">
-    <img src="https://camo.githubusercontent.com/b8962cf8b3e32bdc59553255070c9161671908152fcdbc9049dd1e9adf8e3ea0/68747470733a2f2f6a61636f62646d6e2e6d652f69636f6e732f7461696c77696e646373732e737667" width='60' title='Tailwind Css'   />
-  </div>
+### [📝 Formulário com Validação](https://github.com/LeonardoConstantino/formulario_com_validacao)
+Implementação elegante de um formulário com validação em tempo real.
 
-## 📈 Estatísticas do GitHub
-<div style="display: flex" align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonardoConstantino&theme=dracula" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeonardoConstantino&theme=dracula"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeonardoConstantino&theme=dracula" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeonardoConstantino&theme=dracula" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeonardoConstantino&theme=dracula&utcOffset=8" />
+**Tecnologias**: `HTML` `CSS` `Validação Nativa`
+
+## 🛠️ Stack Tecnológica
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,git,github" />
+  </a>
+</p>
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonardoConstantino&theme=dracula" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeonardoConstantino&theme=dracula"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeonardoConstantino&theme=dracula" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeonardoConstantino&theme=dracula" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeonardoConstantino&theme=dracula&utcOffset=8" />
 </div>
 
-![](https://komarev.com/ghpvc/?username=LeonardoConstantino)
+---
 
+<div align="center">
+  
+📚 Roadmap baseado em [roadmap.sh/frontend](https://roadmap.sh/frontend)
 
-🌐 Referências
-Roteiro inspirado por esse site: <https://roadmap.sh/frontend>
+</div>
